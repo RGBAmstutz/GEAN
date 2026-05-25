@@ -1,6 +1,8 @@
 # GEAN
 **GEAN: Gated Efficient Attention Network for 3D Human Motion Prediction**
-![image](.github/model_visualization.pdf)
+
+![image](.github/model_visualization.png)
+
 ------
 
 ## Installation
