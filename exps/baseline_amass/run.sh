@@ -1,0 +1,1 @@
+CUBLAS_WORKSPACE_CONFIG=:4096:8 python train.py --seed 888 --exp-name baseline.txt --layer-norm-axis spatial  --with-normalization --num 48  --dct --att_out --dim 84 --hidden-dim 84 #--harm #--lr_scheduler 30k
